@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: "PingFangSC-Regular", "微软雅黑", sans-serif;
+  height: 100%;
+}
+
+h1 {
+  font-size: 12rem;
+  letter-spacing: -1px;
+  position: absolute;
+  margin: 0;
+  top: -4px;
+  right: 5px;
+  color: transparent;
+  text-shadow: 0 0 4px white;
+}
+
+p {
+  font-size: 6rem;
+  position: absolute;
+  margin: 0;
+  top: 280px;
+  right: 5px;
+  color: #aaa;
+}
